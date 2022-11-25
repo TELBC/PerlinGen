@@ -1,0 +1,7 @@
+C:\Users\Trist\RiderProjects\perlin\perlin\bin\Debug\perlin.exe
+C:\Users\Trist\RiderProjects\perlin\perlin\bin\Debug\perlin.pdb
+C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.AssemblyReference.cache
+C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.CoreCompileInputs.cache
+C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.exe
+C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.pdb
