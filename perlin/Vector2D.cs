@@ -23,14 +23,14 @@ namespace perlin
                 axisY = qy;
             }
 
-            public double Magnitude()
+            public float Magnitude()
             {
-                return Math.Sqrt(axisX*axisX + axisY*axisY);
+                 return (float)Math.Sqrt(axisX*axisX + axisY*axisY);
             }
 
-            public double Direction()
+            public float Direction()
             {
-                return Math.Tanh(axisY / axisX);
+                return (float)Math.Tanh(axisY / axisX);
             }
         }
 }

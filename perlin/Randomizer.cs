@@ -10,7 +10,7 @@ namespace perlin
             seed ^= seed << 13;
             seed ^= seed >> 17;
             seed ^= seed << 5;
-            return (float)seed/UInt32.MaxValue;
+            return (float)seed/(UInt32.MaxValue/10);
         }
     }
 }
