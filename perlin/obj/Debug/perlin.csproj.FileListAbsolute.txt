@@ -5,3 +5,16 @@ C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.SuggestedBind
 C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.CoreCompileInputs.cache
 C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.exe
 C:\Users\Trist\RiderProjects\perlin\perlin\obj\Debug\perlin.pdb
+D:\DELL\RiderProjects\perlin\perlin\bin\Debug\perlin.exe
+D:\DELL\RiderProjects\perlin\perlin\bin\Debug\perlin.pdb
+D:\DELL\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.AssemblyReference.cache
+D:\DELL\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.SuggestedBindingRedirects.cache
+D:\DELL\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.CoreCompileInputs.cache
+D:\DELL\RiderProjects\perlin\perlin\obj\Debug\perlin.exe
+D:\DELL\RiderProjects\perlin\perlin\obj\Debug\perlin.pdb
+C:\Users\TELB\RiderProjects\perlin\perlin\bin\Debug\perlin.exe
+C:\Users\TELB\RiderProjects\perlin\perlin\bin\Debug\perlin.pdb
+C:\Users\TELB\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.AssemblyReference.cache
+C:\Users\TELB\RiderProjects\perlin\perlin\obj\Debug\perlin.csproj.CoreCompileInputs.cache
+C:\Users\TELB\RiderProjects\perlin\perlin\obj\Debug\perlin.exe
+C:\Users\TELB\RiderProjects\perlin\perlin\obj\Debug\perlin.pdb

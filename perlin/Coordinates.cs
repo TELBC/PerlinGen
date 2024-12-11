@@ -1,17 +1,14 @@
 ﻿namespace perlin
 {
-    public class Coordinates
+    class Coordinates
     {
-        public Vector2D Vector;
+        public int X { get; set; }
+        public int Y { get; set; }
 
-        public Coordinates(int x, int y, Vector2D vec)
+        public Coordinates(int x, int y)
         {
             X = x;
             Y = y;
-            Vector = vec;
         }
-
-        public int X { get; set; }
-        public int Y { get; set; }
     }
 }

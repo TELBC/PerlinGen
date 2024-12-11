@@ -2,25 +2,20 @@
 
 namespace perlin
 {
-    public class Vector2D
+    class Vector2D
     {
+        public float X { get; set; }
+        public float Y { get; set; }
+
         public Vector2D(float x, float y)
         {
             X = x;
             Y = y;
         }
 
-        public float X { get; set; }
-        public float Y { get; set; }
-
-        public float Magnitude() //returns length of vector by calculating pythagoras
+        public float Dot(Vector2D other)
         {
-            return (float)Math.Sqrt(X * X + Y * Y);
-        }
-
-        public float Direction()
-        {
-            return (float)Math.Tanh(Y / X);
+            return X * other.X + Y * other.Y;
         }
     }
 }
